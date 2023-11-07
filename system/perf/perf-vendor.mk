@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.perf@2.3 \
     vendor.qti.qspmhal-V1-ndk \
     vendor.qti.qspmhal@1.0 \
-    PowerSaveMode \
     workloadclassifier \
     QPerformance \
     QXPerformance \

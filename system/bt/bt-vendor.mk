@@ -11,6 +11,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     com.qualcomm.qti.ant@1.0 \
+    libbtconfigstore \
     aptxacu \
     aptxals \
     aptxui \
